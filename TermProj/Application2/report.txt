@@ -1,0 +1,6 @@
+For application 2, I used an array with a size of 3000 with students inserted in positions corresponding to their ID number, since every ID is unique. As a result, every function can run in constant time with the exception of CreateDataSet, which takes O(n). 
+createDataSet: O(n)
+destroyDataSet: O(1)
+searchID: O(1)
+insertion: O(1)
+deletion: O(1)

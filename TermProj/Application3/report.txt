@@ -1,0 +1,8 @@
+For application 3, I used a doubly linked list with head and tail pointers to minimize runtime when calculating age gap, and avoid shifting elements when inserting or deleting.
+createDataSet: O(1)
+destroyDataSet: O(n)
+searchID: O(n)
+searchAge: O(n)
+insertion: O(n)
+deletion: O(n)
+maxAgeGap: O(1)
